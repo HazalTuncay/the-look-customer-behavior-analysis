@@ -1,63 +1,83 @@
-# the-look-customer-behavior-analysis
-This Power BI project analyzes customer behavior for The Look brand to support year-end decision-making. It covers profit trends, customer segments, repeat purchases, cancellations, returns, acquisition channels, and geographic sales distribution using interactive dashboards and KPIs.
-# The Look – Year-End Customer Behavior Review (Power BI)
+# The Look – Müşteri Davranışı Analizi (Power BI)
 
-This repository contains a Power BI dashboard prepared for a year-end evaluation of customer behavior and performance for **The Look**.
+Bu repository, **The Look** markası için yıl sonu değerlendirme sürecinde karar destek amacıyla hazırlanmış bir **Power BI müşteri davranışı analiz çalışmasını** içermektedir.
 
-The report covers profitability trends, customer segmentation, repeat purchase behavior, order statuses (complete/cancelled/returned), acquisition channel distribution, geographic sales insights, and cancellation root-cause exploration.
+Çalışmada; kârlılık trendleri, müşteri segmentleri, tekrar satın alma davranışı, iptal ve iade süreçleri, müşteri kazanım kanalları ve coğrafi satış dağılımı analiz edilmiştir.
 
 ---
 
-## 📌 What’s inside the dashboard
+## 📌 Dashboard İçeriği
 
-### 1) Profit performance (trend + category comparison)
-- Period-over-period profit trend and comparison with previous period/year
-- Profit by product category with change rates (YoY comparison view)  
-(See “Dönemsel Kar” pages.)
+### 1) Kârlılık Analizi (Trend & Kategori Karşılaştırması)
+- Dönemsel kâr trendi
+- Önceki dönem / yıl ile kâr karşılaştırması
+- Ürün kategorisi bazında kâr ve değişim oranları  
+(“Dönemsel Kar” sayfaları)
 
-### 2) Profit by age group and gender
-- Profit distribution across age groups and gender
-- Age group definitions used in the report (Child/Young/Adult/Middle-aged/Elderly)
+### 2) Yaş Grubu ve Cinsiyete Göre Kâr
+- Yaş grubu ve cinsiyet kırılımında kâr dağılımı
+- Yaş grubu tanımları:
+  - Çocuk
+  - Genç
+  - Yetişkin
+  - Orta yaşlı
+  - Yaşlı
 
-### 3) Cancellations & returns (trend + category breakdown)
-- Periodic cancelled vs returned counts
-- Category-level cancelled/returned totals
+### 3) İptal ve İade Analizi
+- Dönemsel iptal ve iade sayıları
+- Ürün kategorisi bazında iptal / iade dağılımları
 
-### 4) Acquisition channels & registrations
-- Registration/customer distribution by traffic source (Search/Organic/Facebook/Email/Display)
-- Channel distribution view over time 
+### 4) Müşteri Kazanım Kanalları
+- Trafik kaynağına göre müşteri ve kayıt dağılımı  
+(Search, Organic, Facebook, Email, Display)
+- Kanalların dönemsel performansı
 
-### 5) Repeat purchase behavior
-- Repeat purchase interval distribution
-- Average repurchase interval and repeat purchase rate
+### 5) Tekrar Satın Alma Davranışı
+- Tekrar alışveriş aralık dağılımı
+- Ortalama tekrar satın alma süresi
+- Tekrar satın alma oranı
 
-### 6) Orders & revenue trends
-- Orders by year and status (Complete/Cancelled/Returned)
-- Monthly revenue and order trends 
+### 6) Sipariş ve Gelir Trendleri
+- Yıllara göre sipariş durumu (Tamamlandı / İptal / İade)
+- Aylık gelir ve sipariş trendleri
 
-### 7) Spend segmentation
-- Customer count by spend segment (Low/Medium/High)
-- Total spend by segment and segment rules (<200, 200–500, >500) 
+### 7) Harcama Segmentasyonu
+- Harcama segmentlerine göre müşteri sayısı:
+  - Düşük
+  - Orta
+  - Yüksek
+- Segment bazlı toplam harcama
+- Segment kuralları:
+  - Düşük: < 200
+  - Orta: 200 – 500
+  - Yüksek: > 500
 
-### 8) Geographic sales insights
-- Profit by country and top locations
-- Map-based geographic spend view with total spend, customer count, and order count KPIs 
+### 8) Coğrafi Satış Analizi
+- Ülke bazında kâr dağılımı
+- En yüksek harcama yapılan şehirler
+- Harita üzerinde:
+  - Toplam harcama
+  - Müşteri sayısı
+  - Sipariş sayısı KPI’ları
 
-### 9) Cancellation analysis (root-cause exploration)
-- Cancelled order count and cancellation rate
-- Root-cause drill (traffic source × city × age × gender) view 
+### 9) Sipariş İptali Kök Neden Analizi
+- Toplam iptal edilen sipariş sayısı
+- İptal oranı
+- Trafik kaynağı × şehir × yaş × cinsiyet kırılımlarında iptal analizi
 
 ---
 
-## 🛠️ Tools
-- Power BI Desktop (report exported to PDF)
+## 🛠️ Kullanılan Araçlar
+- Power BI Desktop  
+(Rapor PDF formatında dışa aktarılmıştır)
 
 ---
 
-## 📂 Files
-- `The Look Yıl Sonu Analizi.pdf` – exported dashboard pages for quick review 
+## 📂 Dosyalar
+- **The Look Yıl Sonu Analizi.pdf**  
+  → Power BI dashboard sayfalarının dışa aktarılmış hali
 
 ---
 
-## 👤 About
-Aspiring Data Analyst with a background in Statistics and business operations, building portfolio projects in analytics and BI.
+## 👤 Hakkımda
+İstatistik altyapısına ve iş süreçleri deneyimine sahip, analitik projeler ve BI çalışmalarıyla portföy oluşturan bir Veri Analisti adayıyım.
