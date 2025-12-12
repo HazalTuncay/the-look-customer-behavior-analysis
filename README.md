@@ -13,49 +13,49 @@ The report covers profitability trends, customer segmentation, repeat purchase b
 ### 1) Profit performance (trend + category comparison)
 - Period-over-period profit trend and comparison with previous period/year
 - Profit by product category with change rates (YoY comparison view)  
-(See “Dönemsel Kar” pages.) :contentReference[oaicite:0]{index=0}
+(See “Dönemsel Kar” pages.)
 
 ### 2) Profit by age group and gender
 - Profit distribution across age groups and gender
-- Age group definitions used in the report (Child/Young/Adult/Middle-aged/Elderly) :contentReference[oaicite:1]{index=1}
+- Age group definitions used in the report (Child/Young/Adult/Middle-aged/Elderly)
 
 ### 3) Cancellations & returns (trend + category breakdown)
 - Periodic cancelled vs returned counts
-- Category-level cancelled/returned totals :contentReference[oaicite:2]{index=2}
+- Category-level cancelled/returned totals
 
 ### 4) Acquisition channels & registrations
 - Registration/customer distribution by traffic source (Search/Organic/Facebook/Email/Display)
-- Channel distribution view over time :contentReference[oaicite:3]{index=3}
+- Channel distribution view over time 
 
 ### 5) Repeat purchase behavior
 - Repeat purchase interval distribution
-- Average repurchase interval and repeat purchase rate :contentReference[oaicite:4]{index=4}
+- Average repurchase interval and repeat purchase rate
 
 ### 6) Orders & revenue trends
 - Orders by year and status (Complete/Cancelled/Returned)
-- Monthly revenue and order trends :contentReference[oaicite:5]{index=5}
+- Monthly revenue and order trends 
 
 ### 7) Spend segmentation
 - Customer count by spend segment (Low/Medium/High)
-- Total spend by segment and segment rules (<200, 200–500, >500) :contentReference[oaicite:6]{index=6}
+- Total spend by segment and segment rules (<200, 200–500, >500) 
 
 ### 8) Geographic sales insights
-- Profit by country and top locations :contentReference[oaicite:7]{index=7}
-- Map-based geographic spend view with total spend, customer count, and order count KPIs :contentReference[oaicite:8]{index=8}
+- Profit by country and top locations
+- Map-based geographic spend view with total spend, customer count, and order count KPIs 
 
 ### 9) Cancellation analysis (root-cause exploration)
 - Cancelled order count and cancellation rate
-- Root-cause drill (traffic source × city × age × gender) view :contentReference[oaicite:9]{index=9}
+- Root-cause drill (traffic source × city × age × gender) view 
 
 ---
 
 ## 🛠️ Tools
-- Power BI Desktop (report exported to PDF) :contentReference[oaicite:10]{index=10}
+- Power BI Desktop (report exported to PDF)
 
 ---
 
 ## 📂 Files
-- `The Look Yıl Sonu Analizi.pdf` – exported dashboard pages for quick review :contentReference[oaicite:11]{index=11}
+- `The Look Yıl Sonu Analizi.pdf` – exported dashboard pages for quick review 
 
 ---
 
